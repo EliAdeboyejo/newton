@@ -1,0 +1,423 @@
+.di{
+    margin-left: 100px;
+    display: flex;
+}
+
+#one{
+    color: red;
+}
+
+#two{
+    color: yellow;
+}
+
+#four{
+    font-weight: normal;
+}
+
+.div{
+    display: flex;
+}
+
+#five{
+    margin-left: 300px;
+}
+
+.food{
+    display: flex;
+    margin-left: 100px;
+}
+
+#six{
+    background-color: white;
+    color: orange;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2),
+                inset 0 -3px 5px rgba(255, 136, 1, 0.5);
+    height: 30px;
+    border: none;
+    margin-left: 10px;            
+    margin-top: 14px;
+}
+
+.contain{
+    width: 1240px;
+    height: 430px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+
+#foor{
+    margin-top: 14px;
+}
+
+#for{
+    margin-top: 14px;
+}
+
+#seven{
+    color: white;
+    font-size: 2.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.con{
+    justify-content: space-between;
+    display: flex;
+}
+
+.ex{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.input{
+    width: 496px;
+    height: 144.44px;
+    background-color: white;
+    border-radius:  16px; 
+    border: none;
+}
+
+#hex{
+    background-color: rgb(254, 180, 205);
+    color: orange;
+    border: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 2px;
+}
+
+#he{
+    background-color: aliceblue;
+    color: black;
+    border: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 2px;
+}
+
+.button{
+    display: flex;
+}
+
+#enoch{
+    width: 322px;
+    height: 20px;
+    border: none;
+    border-radius: 3px;
+    background-image: url(./Icon\ \(4\).png);
+    background-repeat: no-repeat;
+    background-position: 5px;
+    background-size: 15px 25px;
+    margin-left: 10px;
+    padding-left: 30px;
+    margin-top: 50px;
+}
+
+.cco{
+    display: flex;
+    justify-content: space-between;
+}
+
+#hhy{
+    width: 120px;
+    height: 40px;
+    margin-top: 50px;
+    color: white;
+    background-color: #F65900;
+    border: none;
+    margin-right: 20px;
+}
+
+.img{
+    display: flex;
+    margin-left: 90px;
+    gap: 20px;
+}
+
+.p{
+    margin-left: 90px;
+    display: flex;
+    gap: 200px;
+}
+
+.but{
+    margin-left: 90px;
+    display: flex;
+    gap: 160px;
+}
+
+#eight{
+    background-color: #F1722833;
+    color: #F17228;;
+    border: none;
+}
+
+#nine{
+    color: #F17228;
+    text-align: center;
+}
+
+.hog{
+    background-color: rgb(255, 238, 218);
+    width: 1245px;
+    height: 400px;
+}
+
+.images{
+    display: flex;
+    margin-left: 100px;
+    gap: 100px;
+}
+
+.hy{
+    display: flex;
+    margin-left: 150px;
+    gap: 150px;
+}
+
+.py{
+    display: flex;
+    margin-left: 80px;
+    gap: 20px;
+}
+
+#ten{
+     text-align: center;
+}
+
+#eleven{
+    text-align: center;
+}
+
+.pag{
+    display: flex;
+    margin-left: 150px;
+    gap: 130px;
+}
+
+.st{
+    display: flex;
+}
+
+#twelve{
+    color: #F65900;
+}
+
+.many{
+    display: flex;
+    margin-left: 120px;
+    gap: 37px;
+}
+
+.texts{
+    display: flex;
+    margin-left: 150px;
+    gap: 180px;
+}
+
+.buton{
+    display: flex;
+}
+
+#thirteen{
+    background-color: #F17228;
+    color: #F65900;
+    border: none;
+    border-radius: 2px;
+    width: 90px;
+    height: 30px;
+    margin-left: 130px;
+}
+
+.more{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.connect{
+    display: flex;
+    gap: 65px;
+}
+
+.connects{
+    display: flex;
+    margin-left: 50px;
+}
+
+.pad{
+     
+}
+
+.sad{
+     display: flex;
+}
+
+.nut{
+    display: flex;
+    margin-left: 50px;
+    gap: 190px;
+}
+
+#fourteen{
+    background-color: #ff8dfb ;
+    color: #F17228;
+    border: none;
+    border-radius: 16px;
+}
+
+#fifteen{
+    background-color: rgb(237, 255, 237);
+    color: green;
+    border: none;
+    border-radius: 16px;
+}
+
+.nuts{
+    display: flex;
+    margin-left: 50px;
+    gap: 280px;
+}
+
+#sixteen{
+    margin-left: 460px;
+    background-color: #F17228;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 50px;
+    width: 250px;
+    height: 40px;
+}
+
+.tags{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tag{
+    display: flex;
+}
+
+#seventeen{
+    color: #F65900;
+    padding-top: 20px;
+}
+
+.taag{
+    background-color: #FEFAF1;
+}
+
+#nineteen{
+    border-radius: 100px;
+}
+
+.tete{
+    display: flex;
+    margin-left: 150px;
+    gap: 120px;
+}
+
+.card{
+    background-color: #FEEFD0;
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.bbc{
+    display: flex;
+    gap: 200px;
+}
+
+#twenty{
+    text-align: center;
+    color: #FFB800;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.1rem;
+    padding-top: 100px;
+}
+
+#thirty{
+    margin-top: 4px;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.fin{
+    flex-direction: column;
+}
+
+#forty{
+    background-color: white;
+    margin-left: 150px;
+    border: none;
+    border-radius: 2px;
+    display: flex;
+}
+
+.buttoni{
+    display: flex;
+}
+
+.imgg{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    box-shadow: 
+        0 4px 15px rgba(0, 0, 0, 0.5), 
+        0 1px 10px rgba(255, 255, 255, 0.1); 
+    transform: perspective(500px) rotateX(0deg) rotateY(0deg); 
+    border-radius: 5px;
+    width: 1000px;
+    height: 400px;
+}
+
+#kki{
+    color: #FFB800;
+}
+
+.ki{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    padding-top: 60px;
+}
+
+#seventy{
+    width: 350px;
+    height: 50px;
+    background-color: #FFB800;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 30px;
+}
+
+.imh{
+    background: url(./Image\ \(5\).png);
+    width: 1245px;
+    height: 200px;
+    margin-top: 100px;
+}
+
+#eighty{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    color: #FEEFD0;
+}
+
+#cam{
+    color: #FEEFD0;
+    background-color: #F65900;
+    align-items: center;
+    border: none;
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+    justify-content: center;
+    margin-left: 550px;
+}
