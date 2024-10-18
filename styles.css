@@ -165,6 +165,8 @@
     background-color: rgb(255, 238, 218);
     width: 1245px;
     height: 400px;
+    padding-top: 20px;
+    margin-top: 10px;
 }
 
 .images{
@@ -426,4 +428,8 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.stem{
+    margin-top: 100px;
 }
