@@ -165,8 +165,8 @@
     background-color: rgb(255, 238, 218);
     width: 1245px;
     height: 400px;
-    padding-top: 20px;
-    margin-top: 10px;
+    padding-top: 80px;
+    margin-top: 200px;
 }
 
 .images{
@@ -193,6 +193,7 @@
 
 #eleven{
     text-align: center;
+    margin-top: 150px;
 }
 
 .pag{
@@ -432,4 +433,8 @@ body{
 
 .stem{
     margin-top: 100px;
+}
+
+.imag{
+    margin-top: 70px;
 }
